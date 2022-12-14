@@ -1,4 +1,4 @@
-# The Hotel Revenue Analysis Script :hotel:
+# The Hotel Revenue Analysis :hotel:
 
 The following script uses the hotels table by combining data from three different tables: dbo['2018$'], dbo['2019$'], and dbo['2020$']. 
 This hotels table is then used to answer the following questions: 
